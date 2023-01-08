@@ -1,4 +1,4 @@
-# Python-for-Algorithms--Data-Structures--and-Interviews
+# [Python] Data-Structures and Algorithm - Interviews Prep
 
 # Study List
 -   Algorithm Analysis and Big-O Notation
